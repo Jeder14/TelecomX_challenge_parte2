@@ -1,6 +1,6 @@
 # TelecomX_challenge_parte2
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)

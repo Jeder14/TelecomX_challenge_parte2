@@ -29,6 +29,15 @@ El objetivo final es **proponer estrategias de retención basadas en datos** que
 ## 🔗 Acceso al proyecto
 [Repositorio en GitHub](https://github.com/Jeder14/TelecomX_challenge_parte2.git)  
 
+## 🔗 Acceso al proyecto
+- **Python 3.10+**
+- **Pandas** 📊 → Manipulación y análisis de datos.
+- **NumPy** 🔢 → Operaciones matemáticas y manejo de arrays.
+- **Matplotlib** 📈 → Visualización de datos.
+- **Seaborn** 🎨 → Gráficos estadísticos y análisis visual.
+- **Scikit-Learn** 🤖 → Modelado, entrenamiento y evaluación de modelos de Machine Learning.
+
+
 ## 🤝 Personas Contribuyentes
 
 - [AluraLatam](https://github.com/alura-es-cursos )

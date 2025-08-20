@@ -27,7 +27,7 @@ El objetivo final es **proponer estrategias de retención basadas en datos** que
 
 
 ## 🔗 Acceso al proyecto
-[Repositorio en GitHub][[([https://github.com/Jeder14/Challenge-amigo-secreto.git](https://github.com/Jeder14/TelecomX_challenge_parte2.git](https://github.com/Jeder14/TelecomX_challenge_parte2.git))](https://github.com/Jeder14/TelecomX_challenge_parte2.git)](https://github.com/Jeder14/TelecomX_challenge_parte2.git)
+[Repositorio en GitHub](https://github.com/Jeder14/TelecomX_challenge_parte2.git)  
 
 ## 🤝 Personas Contribuyentes
 
